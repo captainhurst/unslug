@@ -1,0 +1,17 @@
+boto==2.36.0
+Django==1.8b1
+django-boto==0.3.9
+ecdsa==0.13
+Fabric==1.10.1
+oauthlib==0.7.2
+paramiko==1.15.2
+postgres==2.1.2
+psycopg2==2.6
+pycrypto==2.6.1
+PyJWT==0.4.1
+python-dateutil==2.4.0
+python-openid==2.2.5
+python-social-auth==0.2.2
+requests==2.5.3
+requests-oauthlib==0.4.2
+six==1.9.0
